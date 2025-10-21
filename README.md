@@ -10,5 +10,5 @@ Neste link podemos ler o que a própria AWS diz sobre a autimatização a config
 
 https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/olap-using-cfn-template.html
 
-![imagem Docker](/LambdaFunctions-e-S3/lambdaS3.png)
+![Docker containers](/LambdaFunctions-e-S3/lambdaS3.png)
 Essa imagem mostra a interface do Docker Desktop, está é a aba Containers, onde você pode visualizar e gerenciar todos os contêineres em execução ou já criados no seu ambiente Docker.
