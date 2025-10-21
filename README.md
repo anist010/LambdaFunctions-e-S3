@@ -9,5 +9,5 @@ Algo muito importante de se saber é sobre o Local Stack, atráves dele pode-se 
 Neste link podemos ler o que a própria AWS diz sobre a autimatização a configuração da Amazon S3 e Lambda Function.
 https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/olap-using-cfn-template.html
 
-![imagem Docker](/LambdaFunctions-e-S3/lambdaS3.png)=img
+![imagem Docker](/LambdaFunctions-e-S3/lambdaS3.png)
 Essa imagem mostra a interface do Docker Desktop, está é a aba Containers, onde você pode visualizar e gerenciar todos os contêineres em execução ou já criados no seu ambiente Docker.
