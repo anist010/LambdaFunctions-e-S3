@@ -7,6 +7,7 @@ Enquanto o AWS Lambda é um serviço de computação serverless — você execut
 A integração entre Amazon S3 e Lambda permite que uma função Lambda seja executada automaticamente quando um evento acontece no S3.
 Algo muito importante de se saber é sobre o Local Stack, atráves dele pode-se simular testes sem usar a AWS e 100% gratuito.
 Neste link podemos ler o que a própria AWS diz sobre a autimatização a configuração da Amazon S3 e Lambda Function.
+
 https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/olap-using-cfn-template.html
 
 ![imagem Docker](/LambdaFunctions-e-S3/lambdaS3.png)
